@@ -1,37 +1,142 @@
 [
   {
     "id": 1,
-    "title": "Welcome to the Demon Hunt",
-    "gameName": "Kpop Demon Hunter",
-    "content": "In a world where shadows lurk beneath the glittering stage lights, a new breed of warriors emerges. The Kpop Demon Hunters are not just idols; they are the last line of defense against supernatural forces. Combining killer choreography with lethal combat skills, they protect humanity while maintaining their superstar status. Join them on their journey to vanquish evil and drop chart-topping hits.",
-    "imageUrl": "https://images.unsplash.com/photo-1542360663-8b401565a0ca?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+    "title": "What is a Sports Car?",
+    "gameName": "Sports Cars",
+    "content": "A sports car is a vehicle designed primarily for high-speed performance, responsive handling, and an exciting driving experience. Unlike regular passenger cars, sports cars are engineered with powerful engines, aerodynamic designs, lightweight materials, and advanced suspension systems. They are built to deliver exceptional acceleration, precise cornering, and a thrilling connection between the driver and the road.",
+    "imageUrl": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
   },
   {
     "id": 2,
-    "title": "Mastering the Neon Blade",
-    "gameName": "Kpop Demon Hunter",
-    "content": "The signature weapon of every seasoned Demon Hunter is the Neon Blade. Forged from pure starlight and synchronized to the rhythm of the universe, it slices through darkness effortlessly. To master this weapon, one must first learn to harmonize their soul with the beat. Practice your rhythm, stay light on your feet, and let the music guide your strikes.",
-    "imageUrl": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+    "title": "The Evolution of Sports Cars",
+    "gameName": "Sports Cars",
+    "content": "The history of sports cars dates back to the early 20th century, when manufacturers began creating lightweight vehicles focused on speed and agility. Over the decades, innovations in engine technology, aerodynamics, and safety transformed sports cars into engineering masterpieces. Today, modern sports cars combine cutting-edge technology with timeless performance, offering both speed and everyday usability.",
+    "imageUrl": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
   },
   {
     "id": 3,
-    "title": "The Enigma of the Phantom Idol",
-    "gameName": "Kpop Demon Hunter",
-    "content": "Rumors speak of a Phantom Idol, a mysterious figure who appears only during the blood moon. Some say they are a fallen Hunter, while others believe they are a demon in disguise. Their songs possess a hypnotic quality, capable of mesmerizing both mortals and spirits. If you ever encounter the Phantom Idol, remember: do not lose yourself in their melody.",
-    "imageUrl": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+    "title": "Power Under the Hood",
+    "gameName": "Sports Cars",
+    "content": "One of the defining features of a sports car is its powerful engine. Many sports cars use turbocharged four-cylinder, V6, V8, or even V10 and V12 engines capable of producing hundreds of horsepower. This allows them to accelerate from 0 to 60 mph in just a few seconds. Performance-oriented engineering ensures that every press of the accelerator delivers instant excitement.",
+    "imageUrl": "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
   },
   {
     "id": 4,
-    "title": "Shadow Beasts: A Hunter's Guide",
-    "gameName": "Kpop Demon Hunter",
-    "content": "Shadow Beasts are the most common foes you will face. They feed on negative energy and fear. To defeat them, you must project confidence and positivity. A well-executed dance combo combined with a powerful vocal high-note will shatter their shadowy forms. Never let them sense your fear, and always keep the rhythm going.",
-    "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+    "title": "Aerodynamics Matter",
+    "gameName": "Sports Cars",
+    "content": "Aerodynamics plays a crucial role in sports car performance. Every curve, spoiler, air intake, and diffuser is carefully designed to reduce drag while increasing downforce. These features improve stability at high speeds, allowing drivers to maintain better control during acceleration, braking, and cornering on both roads and racetracks.",
+    "imageUrl": "https://images.unsplash.com/photo-1502877338535-766e1452684a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
   },
   {
     "id": 5,
-    "title": "The Final Encore",
-    "gameName": "Kpop Demon Hunter",
-    "content": "The ultimate battle is known as the Final Encore. It is a grueling test of endurance, skill, and sheer willpower. Only the most elite Hunters survive the Encore. You must perfectly execute your ultimate moves while maintaining perfect pitch. When the final note strikes and the demons are banished, the roar of the crowd will be your ultimate reward.",
-    "imageUrl": "https://images.unsplash.com/photo-1470229722913-7c092bb45800?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+    "title": "Lightweight Construction",
+    "gameName": "Sports Cars",
+    "content": "Modern sports cars often use lightweight materials such as aluminum, carbon fiber, and magnesium. Reducing vehicle weight improves acceleration, braking performance, fuel efficiency, and handling. A lighter car requires less power to move quickly, making it more agile and responsive during spirited driving.",
+    "imageUrl": "https://images.unsplash.com/photo-1489824904134-891ab64532f1?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 6,
+    "title": "Rear-Wheel Drive vs All-Wheel Drive",
+    "gameName": "Sports Cars",
+    "content": "Many classic sports cars use rear-wheel drive because it offers balanced handling and an engaging driving experience. However, modern high-performance sports cars increasingly feature all-wheel drive systems, providing superior traction and faster acceleration, especially in challenging weather conditions.",
+    "imageUrl": "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 7,
+    "title": "Iconic Sports Car Brands",
+    "gameName": "Sports Cars",
+    "content": "Some of the world's most famous sports car manufacturers include Ferrari, Porsche, Lamborghini, McLaren, Aston Martin, Chevrolet, Nissan, Toyota, BMW, and Lotus. Each brand has developed legendary models known for speed, innovation, and distinctive design.",
+    "imageUrl": "https://images.unsplash.com/photo-1494905998402-395d579af36f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 8,
+    "title": "Technology Meets Performance",
+    "gameName": "Sports Cars",
+    "content": "Today's sports cars feature adaptive suspension, launch control, dual-clutch transmissions, carbon-ceramic brakes, electronic differential systems, and customizable driving modes. These technologies maximize performance while improving safety and driving confidence.",
+    "imageUrl": "https://images.unsplash.com/photo-1502161254066-6c74afbf07aa?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 9,
+    "title": "The Rise of Electric Sports Cars",
+    "gameName": "Sports Cars",
+    "content": "Electric sports cars are changing the future of performance driving. Instant electric torque allows these vehicles to achieve breathtaking acceleration while producing zero tailpipe emissions. They demonstrate that sustainability and speed can coexist.",
+    "imageUrl": "https://images.unsplash.com/photo-1553440569-bcc63803a83d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 10,
+    "title": "Why People Love Sports Cars",
+    "gameName": "Sports Cars",
+    "content": "Sports cars represent passion, engineering excellence, and the joy of driving. Their beautiful designs, thrilling acceleration, responsive handling, and emotional connection to the road continue to inspire automotive enthusiasts worldwide.",
+    "imageUrl": "https://images.unsplash.com/photo-1504215680853-026ed2a45def?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 11,
+    "title": "Manual vs Automatic Transmission",
+    "gameName": "Sports Cars",
+    "content": "Manual transmissions offer greater driver involvement, while modern dual-clutch automatic gearboxes provide lightning-fast shifts and maximum performance. Both transmission types have loyal fans depending on driving preferences.",
+    "imageUrl": "https://images.unsplash.com/photo-1502877338535-766e1452684a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 12,
+    "title": "The Importance of Tire Grip",
+    "gameName": "Sports Cars",
+    "content": "High-performance tires provide the traction needed for fast acceleration, confident braking, and sharp cornering. Even the most powerful sports car relies on quality tires to transfer its performance safely to the road.",
+    "imageUrl": "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 13,
+    "title": "Sports Cars on the Racetrack",
+    "gameName": "Sports Cars",
+    "content": "Many sports cars are designed with racetrack performance in mind. Track days allow owners to safely explore their car's capabilities while improving driving skills in a controlled environment.",
+    "imageUrl": "https://images.unsplash.com/photo-1517677208171-0bc6725a3e60?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 14,
+    "title": "Exotic vs Everyday Sports Cars",
+    "gameName": "Sports Cars",
+    "content": "Sports cars range from affordable models like the Mazda MX-5 and Toyota GR86 to exotic supercars from Ferrari and Lamborghini. Regardless of price, every sports car focuses on delivering an engaging driving experience.",
+    "imageUrl": "https://images.unsplash.com/photo-1494905998402-395d579af36f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 15,
+    "title": "Carbon Fiber Technology",
+    "gameName": "Sports Cars",
+    "content": "Carbon fiber is widely used in modern sports cars because it is extremely strong and lightweight. It helps reduce overall weight, improving acceleration, handling, braking performance, and fuel efficiency.",
+    "imageUrl": "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 16,
+    "title": "The Sound of Performance",
+    "gameName": "Sports Cars",
+    "content": "The sound of a sports car is carefully engineered to create an emotional driving experience. From the deep rumble of a V8 to the high-pitched scream of a V12, engine notes are part of every performance enthusiast's passion.",
+    "imageUrl": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 17,
+    "title": "Design Inspired by Speed",
+    "gameName": "Sports Cars",
+    "content": "Every sports car is designed with performance in mind. Low body profiles, aggressive styling, aerodynamic lines, and functional air vents all contribute to both visual appeal and improved high-speed stability.",
+    "imageUrl": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 18,
+    "title": "Hybrid Performance Revolution",
+    "gameName": "Sports Cars",
+    "content": "Hybrid sports cars combine powerful gasoline engines with electric motors to achieve remarkable acceleration and greater efficiency. This technology is becoming increasingly popular among the world's leading performance manufacturers.",
+    "imageUrl": "https://images.unsplash.com/photo-1553440569-bcc63803a83d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 19,
+    "title": "Essential Maintenance Tips",
+    "gameName": "Sports Cars",
+    "content": "Routine maintenance is essential for keeping a sports car in peak condition. Regular oil changes, brake inspections, tire checks, suspension maintenance, and cooling system service help ensure reliability and long-term performance.",
+    "imageUrl": "https://images.unsplash.com/photo-1486006920555-c77dcf18193c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 20,
+    "title": "The Future of Sports Cars",
+    "gameName": "Sports Cars",
+    "content": "The future of sports cars includes electric powertrains, artificial intelligence, lightweight materials, and advanced aerodynamics. While technology continues to evolve, the excitement of driving a sports car will remain at the heart of automotive innovation.",
+    "imageUrl": "https://images.unsplash.com/photo-1504215680853-026ed2a45def?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
   }
 ]
