@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "Welcome to the Demon Hunt",
+    "gameName": "Kpop Demon Hunter",
+    "content": "In a world where shadows lurk beneath the glittering stage lights, a new breed of warriors emerges. The Kpop Demon Hunters are not just idols; they are the last line of defense against supernatural forces. Combining killer choreography with lethal combat skills, they protect humanity while maintaining their superstar status. Join them on their journey to vanquish evil and drop chart-topping hits.",
+    "imageUrl": "https://images.unsplash.com/photo-1542360663-8b401565a0ca?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 2,
+    "title": "Mastering the Neon Blade",
+    "gameName": "Kpop Demon Hunter",
+    "content": "The signature weapon of every seasoned Demon Hunter is the Neon Blade. Forged from pure starlight and synchronized to the rhythm of the universe, it slices through darkness effortlessly. To master this weapon, one must first learn to harmonize their soul with the beat. Practice your rhythm, stay light on your feet, and let the music guide your strikes.",
+    "imageUrl": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 3,
+    "title": "The Enigma of the Phantom Idol",
+    "gameName": "Kpop Demon Hunter",
+    "content": "Rumors speak of a Phantom Idol, a mysterious figure who appears only during the blood moon. Some say they are a fallen Hunter, while others believe they are a demon in disguise. Their songs possess a hypnotic quality, capable of mesmerizing both mortals and spirits. If you ever encounter the Phantom Idol, remember: do not lose yourself in their melody.",
+    "imageUrl": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 4,
+    "title": "Shadow Beasts: A Hunter's Guide",
+    "gameName": "Kpop Demon Hunter",
+    "content": "Shadow Beasts are the most common foes you will face. They feed on negative energy and fear. To defeat them, you must project confidence and positivity. A well-executed dance combo combined with a powerful vocal high-note will shatter their shadowy forms. Never let them sense your fear, and always keep the rhythm going.",
+    "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 5,
+    "title": "The Final Encore",
+    "gameName": "Kpop Demon Hunter",
+    "content": "The ultimate battle is known as the Final Encore. It is a grueling test of endurance, skill, and sheer willpower. Only the most elite Hunters survive the Encore. You must perfectly execute your ultimate moves while maintaining perfect pitch. When the final note strikes and the demons are banished, the roar of the crowd will be your ultimate reward.",
+    "imageUrl": "https://images.unsplash.com/photo-1470229722913-7c092bb45800?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+  }
+]
